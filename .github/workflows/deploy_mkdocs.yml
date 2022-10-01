@@ -33,4 +33,5 @@ jobs:
         uses: mhausenblas/mkdocs-deploy-gh-pages@1.25
         env:
           PERSONAL_TOKEN: ${{ secrets.PERSONAL_TOKEN }}
+          REQUIREMENTS: ./requirements.txt
 
