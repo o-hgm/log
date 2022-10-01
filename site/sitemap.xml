@@ -6,22 +6,22 @@
          <changefreq>daily</changefreq>
     </url>
     <url>
+         <loc>https://o-hgm.github.io/log/development/by_language/python/reactive_programming/</loc>
+         <lastmod>2022-10-01</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://o-hgm.github.io/log/development/tools/dev-ops/bastion/</loc>
+         <lastmod>2022-10-01</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
          <loc>https://o-hgm.github.io/log/lists/books/</loc>
          <lastmod>2022-10-01</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://o-hgm.github.io/log/projects/</loc>
-         <lastmod>2022-10-01</lastmod>
-         <changefreq>daily</changefreq>
-    </url>
-    <url>
          <loc>https://o-hgm.github.io/log/projects/www/</loc>
-         <lastmod>2022-10-01</lastmod>
-         <changefreq>daily</changefreq>
-    </url>
-    <url>
-         <loc>https://o-hgm.github.io/log/tools/dev/ops/bastion/</loc>
          <lastmod>2022-10-01</lastmod>
          <changefreq>daily</changefreq>
     </url>

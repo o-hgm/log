@@ -3,7 +3,7 @@
 <head>
 <meta charset="utf-8">
 <meta content="text/html; charset=utf-8" http-equiv="Content-Type">
-<title>Bastion - Log (@o-hgm)</title>
+<title>Rx - Log (@o-hgm)</title>
 <meta http-equiv="X-UA-Compatible" content="IE=edge">
 
 <meta name="generator" content="mkdocs-1.4.0, mkdocs-gitbook-1.0.7">
@@ -20,9 +20,6 @@
 <body>
 <div class="book">
 <div class="book-summary">
-<div id="book-search-input" role="search">
-<input type="text" placeholder="Type to search" />
-</div> <!-- end of book-search-input -->
 
 <nav role="navigation">
 <ul class="summary">
@@ -31,7 +28,41 @@
 </li>
 <li class="divider"></li>
 <li class="chapter" data-path="">
-<a href="../../../..">Welcome to my personal log</a>
+<a href="../../../..">Log</a>
+<li class="header">Development</li>
+
+<li>
+<a href="#">By language</a>
+<ul>
+
+<li>
+<a href="#">Python</a>
+<ul>
+
+<li>
+<a href="./" class="active">Rx</a>
+</li>
+</ul>
+</li>
+</ul>
+</li>
+
+<li>
+<a href="#">Tools</a>
+<ul>
+
+<li>
+<a href="#">Dev ops</a>
+<ul>
+
+<li>
+<a href="../../../tools/dev-ops/bastion/" class="">Bastion</a>
+</li>
+</ul>
+</li>
+</ul>
+</li>
+
 <li class="header">Lists</li>
 
 <li>
@@ -41,29 +72,7 @@
 <li class="header">Projects</li>
 
 <li>
-<a href="../../../../projects/" class="">Index</a>
-</li>
-
-<li>
 <a href="../../../../projects/www/" class="">Personal website</a>
-</li>
-
-<li class="header">Tools</li>
-
-<li>
-<a href="#">Dev</a>
-<ul>
-
-<li>
-<a href="#">Ops</a>
-<ul>
-
-<li>
-<a href="./" class="active">Bastion</a>
-</li>
-</ul>
-</li>
-</ul>
 </li>
 
 <li class="header">Travel</li>
@@ -113,38 +122,23 @@ Theme by GitBook
 
 <div class="page-wrapper" tabindex="-1" role="main">
 <div class="page-inner">
-<div id="book-search-results">
-<div class="search-noresults">
 
 <section class="normal markdown-section">
 
 
 
-<h1 id="bastion">Bastion</h1>
-<p>Bastion is a tool to handle connections between an user and a set of resources.</p>
-<p>It allows to split ssh connections in two:
-* Ingress: User -&gt; Bastion
-* Egress: Bastion -&gt; Instance</p>
-<p>This allows to control who access which resource.</p>
-<p>You can find more info about setup in <a href="https://github.com/ovh/the-bastion">their github repository</a>.</p>
+<h1 id="rx">Rx</h1>
+<h2 id="libraries">Libraries</h2>
+<ul>
+<li><a href="https://github.com/ReactiveX/RxPY">RxPy</a>: It's the official lib from <a href="https://reactivex.io/">Reactive X</a>. It looks maintained. </li>
+</ul>
+<blockquote>
+<p>ReactiveX for Python is a fairly complete implementation of Rx with more than 120 operators, and over 1300 passing unit-tests. RxPY is mostly a direct port of RxJS, but also borrows a bit from Rx.NET and RxJava in terms of threading and blocking operators.</p>
+</blockquote>
+<h2 id="examples">Examples</h2>
 
 
 </section>
-</div> <!-- end of search-noresults -->
-<div class="search-results">
-<div class="has-results">
-
-<h1 class="search-results-title"><span class='search-results-count'></span> results matching "<span class='search-query'></span>"</h1>
-<ul class="search-results-list"></ul>
-
-</div> <!-- end of has-results -->
-<div class="no-results">
-
-<h1 class="search-results-title">No results matching "<span class='search-query'></span>"</h1>
-
-</div> <!-- end of no-results -->
-</div> <!-- end of search-results -->
-</div> <!-- end of book-search-results -->
 
 </div> <!-- end of page-inner -->
 </div> <!-- end of page-wrapper -->
@@ -153,7 +147,6 @@ Theme by GitBook
 
 </div> <!-- end of book-body -->
 <script src="../../../../js/main.js"></script>
-<script src="../../../../search/main.js"></script>
 <script src="../../../../js/gitbook.min.js"></script>
 <script src="../../../../js/theme.min.js"></script>
 </body>
