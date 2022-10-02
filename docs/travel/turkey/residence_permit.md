@@ -119,9 +119,9 @@ your passport. The cost of this is [... i don't know ...].
 (1): When i tried to access https://www.yabancilaricinsaglik.com/en/yabancilara-saglik-sigortasi-nedir.asp contact option a 404 error raises.
 (2): Yes, i forgot that at that time i'm 34 xD
 
-## Links
+<!--- Links -->
 
-### Useful info
+<!-- Useful info -->
 
 [1]: https://yabangee.com/
 [2]: https://m0wer.github.io/memento/countries/turkey/legal/touristic_visa/
@@ -131,7 +131,7 @@ your passport. The cost of this is [... i don't know ...].
 [7]: https://yabangee.com/2016/11/residence-permit-health-insurance-a-quick-easy-and-affordable-application-process/
 [10]: https://www.sahibinden.com/
 
-### Goverment links
+<!-- Goverment links -->
 
 [6]: https://e-ikamet.goc.gov.tr/
 [8]: https://ivd.gib.gov.tr
