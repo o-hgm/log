@@ -1,4 +1,4 @@
-# Apply for Residence Permit
+# How to: Apply for Residence Permit
 
 > Most of the information i've gathered came from [Mou's Memento][2]
 
