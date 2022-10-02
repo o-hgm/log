@@ -116,8 +116,8 @@ your passport. The cost of this is [... i don't know ...].
 
 ## Notes
 
-(1): When i tried to access https://www.yabancilaricinsaglik.com/en/yabancilara-saglik-sigortasi-nedir.asp contact option a 404 error raises.
-(2): Yes, i forgot that at that time i'm 34 xD
+(1): When i tried to access https://www.yabancilaricinsaglik.com/en/yabancilara-saglik-sigortasi-nedir.asp contact option a 404 error raises.  
+(2): Yes, i forgot that at that time i'm 34 xD.  
 
 <!--- Links -->
 
