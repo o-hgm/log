@@ -1,4 +1,4 @@
-## General Info
+## How to travel
 
 + [Train Company: TCDD](https://www.tcddtasimacilik.gov.tr/)
 
